@@ -1,4 +1,10 @@
 __author__ = 'orly'
+'''
+This script downloads organisms proteom from uniprot.org in fasta format.
+List of organisms is maintained in orgs_list.csv
+'''
+
+
 
 import os
 #from urllib2 import urlopen, URLError, HTTPError
