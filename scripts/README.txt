@@ -28,7 +28,8 @@ Runs the blast command in parallel (using SLURM_ARRAY_ID)
 Joins the outputs created by the parallel run.
 
 
-
+After all data is ready - you should run:
+run_blast_par.sh with no parameters.
 
 
 
